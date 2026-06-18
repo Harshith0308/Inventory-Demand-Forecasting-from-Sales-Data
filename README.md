@@ -3,6 +3,8 @@
 
 A cloud-based inventory demand forecasting system built using AWS serverless architecture. This platform collects sales data from multiple retail stores, processes it through AWS services, and generates demand forecasts to optimize stock management and reduce overstock/understock situations.
 
+> **About this repository.** The serverless backend (AWS Lambda, DynamoDB, API Gateway, S3, and IAM) was configured and operated directly in the AWS Console. This repository therefore contains the frontend and the architecture documentation, with the annotated console screenshots below serving as evidence of the working system, rather than infrastructure-as-code.
+
 ---
 
 ## System Architecture
