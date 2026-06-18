@@ -73,7 +73,7 @@ AWS Architecture Diagram
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Gottipati Harshith Sai**  
 B.Tech CSE — SRM University-AP  
